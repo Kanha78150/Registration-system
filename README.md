@@ -30,7 +30,7 @@ Modeled and integrated MongoDB schemas to manage user data efficiently.
 This project has been an enriching experience, providing valuable insights into full-stack development. It encompasses aspects from crafting responsive UI components to implementing scalable server-side logic.
 
 # Clone the repository
-git clone [Your GitHub Repository URL]
+git clone [https://github.com/Kanha78150/Registration-system.git]
 
 # Install dependencies
 npm install
